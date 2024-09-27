@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Introduction to HTML5 Final Project</title>
+</head>
+
+<body>
+  <header>
+    <h1>FPT University</h1>
+    <nav><a href="#One">One</a> <a href="#Two">Two</a> <a href="#Three">Three</a> <a href="#Four">Four</a></nav>
+  </header>
+
+  <section>
+    <h2>Favorite Foods</h2>
+    <ul>
+      <li>Ice cream</li>
+      <li>Eggs</li>
+      <li>Cheddar Cheese</li>
+      <li>Bell Peppers</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Achievements</h2> Progress in this course (100%)
+    <progress value="100" max="100"></progress>
+    <br>Progress in the Specialization capstone (20%)
+    <progress value="20" max="100"></progress>
+    <br>Progress in life goals (60%)
+    <progress value="60" max="100"></progress>
+  </section>
+
+  <footer>
+    <img src="https://via.placeholder.com/300" alt="Placeholder Image 1" alt="logo" />This page was created by Ny Na. To valid code, visit <a href="https://www.w3schools.com/">W3Schools</a>.
+  </footer>
+
+</body>
+
+</html>
